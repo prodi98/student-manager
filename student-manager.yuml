@@ -1,0 +1,1 @@
+(Login)<(Invalid credentials), [Student]-(View details), (View details) > (Login), [Student]-(View grades), (View grades) > (Login), [Teacher]-(View students), (View students)>(Login), [Teacher]-(Add student), (Add student)>(Login), (Add student)<(Duplicate student), [Administrator]-(Create account), (Create account)<(Account already exists), [Administrator]-(Add Subjects)
